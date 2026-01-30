@@ -38,13 +38,11 @@ const cakes: Cake[] = [
 
   {
     id: 2,
-    name: "Torta Matera Marmolada",
-    description: "Una deliciosa combinación de vainilla y cacao en un bizcochuelo esponjoso y húmedo. La Torta Matera Marmolada es ideal para acompañar el mate, el café o una merienda en familia. Su sabor equilibrado y su aspecto marmolado la convierten en un clásico infaltable en cualquier mesa.",
-    price: "$10000",
+    name: "Torta 80 Golpes con Membrillo, Chips de Chocolate, Pasas de Uva, Frutos Secos. (Rellenos a elección)",
+    description: "La Torta 80 Golpes es puro sabor a hogar 🤍. Preparada de forma artesanal, bien tierna y llena de aroma, la podés disfrutar con membrillo, chips de chocolate, pasas de uva o frutos secos, ¡a elección! Perfecta para compartir o darte un gustito dulce cuando quieras.",
+    price: "$18000",
     images: [
-      "/images/tortamateramarmolada3.jpg",
-      "/images/tortamateramarmolada2.jpg",
-      "/images/tortamateramarmolada1.jpg",
+      "/images/torta80golpes_membrillo_1.jpg",
     ],
   },
 
@@ -74,13 +72,13 @@ const cakes: Cake[] = [
 
   {
     id: 5,
-    name: "Tortas Personalizadas",
-    description: "Convertí tus ideas en una torta única. Diseñamos tortas totalmente personalizadas para cumpleaños, aniversarios, eventos o cualquier ocasión especial. Elegí los sabores, colores y decoración que más te gusten, y nosotros nos encargamos de crear una torta deliciosa y hecha a tu medida.",
-    price: "$20000 x kilo",
+    name: "Torta Matera Marmolada",
+    description: "Una deliciosa combinación de vainilla y cacao en un bizcochuelo esponjoso y húmedo. La Torta Matera Marmolada es ideal para acompañar el mate, el café o una merienda en familia. Su sabor equilibrado y su aspecto marmolado la convierten en un clásico infaltable en cualquier mesa.",
+    price: "$10000",
     images: [
-      "/images/tortapersonalizada1.jpg",
-      "/images/tortapersonalizada2.jpg",
-      "/images/tortapersonalizada3.jpg",
+      "/images/tortamateramarmolada3.jpg",
+      "/images/tortamateramarmolada2.jpg",
+      "/images/tortamateramarmolada1.jpg",
     ],
   },
 
@@ -110,11 +108,13 @@ const cakes: Cake[] = [
 
   {
     id: 8,
-    name: "Torta 80 Golpes de Membrillo",
-    description: "Nuestra clásica Torta 80 Golpes rellena con dulce de membrillo es una verdadera tentación para los amantes de lo tradicional. Masa suave, esponjosa y delicadamente hojaldrada, trabajada golpe a golpe para lograr su textura única, combinada con un generoso relleno de membrillo que aporta el equilibrio perfecto entre dulzura y sabor. Ideal para acompañar el mate, el café o para disfrutar en cualquier momento del día.",
-    price: "$18000",
+    name: "Tortas Personalizadas",
+    description: "Convertí tus ideas en una torta única. Diseñamos tortas totalmente personalizadas para cumpleaños, aniversarios, eventos o cualquier ocasión especial. Elegí los sabores, colores y decoración que más te gusten, y nosotros nos encargamos de crear una torta deliciosa y hecha a tu medida.",
+    price: "$20000 x kilo",
     images: [
-      "/images/torta80golpes_membrillo_1.jpg",
+      "/images/tortapersonalizada1.jpg",
+      "/images/tortapersonalizada2.jpg",
+      "/images/tortapersonalizada3.jpg",
     ],
   },
 
