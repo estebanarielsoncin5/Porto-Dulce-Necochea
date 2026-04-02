@@ -23,7 +23,7 @@ const cakes: Cake[] = [
     id: 1,
     name: "Torta 80 Golpes Clásica",
     description: "Un clásico irresistible de la repostería argentina. La Torta 80 Golpes combina capas suaves de bizcochuelo con un toque justo de dulzura y una textura húmeda y esponjosa. Su sabor casero y su aroma inconfundible la convierten en la elección perfecta para acompañar un café o celebrar cualquier ocasión especial.",
-    price: "$15000",
+    price: "$17000",
     images: [
       "/images/torta80golpes8.jpg",
       "/images/torta80golpes7.jpg",
@@ -40,7 +40,7 @@ const cakes: Cake[] = [
     id: 2,
     name: "Torta 80 Golpes con Membrillo, Chips de Chocolate, Pasas de Uva, Frutos Secos. (Rellenos a elección)",
     description: "La Torta 80 Golpes es puro sabor a hogar 🤍. Preparada de forma artesanal, bien tierna y llena de aroma, la podés disfrutar con membrillo, chips de chocolate, pasas de uva o frutos secos, ¡a elección! Perfecta para compartir o darte un gustito dulce cuando quieras.",
-    price: "$18000",
+    price: "$20000",
     images: [
       "/images/torta80golpes_membrillo_1.jpg",
     ],
@@ -50,7 +50,7 @@ const cakes: Cake[] = [
     id: 3,
     name: "Torta Matera con Chips de Chocolate",
     description: "Suave, esponjosa y con el toque irresistible del chocolate. Esta torta matera combina la textura casera de un bizcochuelo tradicional con deliciosos chips que se derriten en cada bocado. Perfecta para acompañar el mate, el café o disfrutar en cualquier momento del día.",
-    price: "$10000",
+    price: "$12000",
     images: [
       "/images/tortamaterachips3.jpg",
       "/images/tortamaterachips2.jpg",
@@ -62,7 +62,7 @@ const cakes: Cake[] = [
     id: 4,
     name: "Torta Matera de Limón o Naranja",
     description: "Fresca, esponjosa y con el aroma cítrico que enamora. Nuestra torta matera de limón o naranja ofrece un sabor suave y natural, ideal para acompañar el mate o una infusión. Un clásico casero que aporta un toque de frescura a cada merienda.",
-    price: "$10000",
+    price: "$12000",
     images: [
       "/images/tortamateralimonnaranja1.jpg",
       "/images/tortamateralimonnaranja2.jpg",
@@ -74,7 +74,7 @@ const cakes: Cake[] = [
     id: 5,
     name: "Torta Matera Marmolada",
     description: "Una deliciosa combinación de vainilla y cacao en un bizcochuelo esponjoso y húmedo. La Torta Matera Marmolada es ideal para acompañar el mate, el café o una merienda en familia. Su sabor equilibrado y su aspecto marmolado la convierten en un clásico infaltable en cualquier mesa.",
-    price: "$10000",
+    price: "$12000",
     images: [
       "/images/tortamateramarmolada3.jpg",
       "/images/tortamateramarmolada2.jpg",
@@ -122,7 +122,7 @@ const cakes: Cake[] = [
     id: 9,
     name: "Pastafrola de Membrillo, Batata o Dulce de leche",
     description: "Clásica, casera y llena de sabor. Nuestra torta pastafrola está hecha con una masa suave y dorada, rellena con abundante dulce membrillo, batata, dulce de leche (según tu elección) y decorada con el tradicional enrejado que la hace irresistible. Ideal para acompañar el mate, el café o para disfrutar en cualquier momento del día. Elaborada con ingredientes de primera calidad y mucho amor, como hecha en casa.",
-    price: "$15000",
+    price: "$17000",
     images: [
       "/images/pastafrola1.jpg",
     ],
